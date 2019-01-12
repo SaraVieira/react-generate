@@ -5,7 +5,7 @@
   "private": true,
   "bin": {
     "bake-component": "bin/bake-component",
-    "bakec": "bin/bake-component
+    "bake": "bin/bake-component"
   },
   "scripts": {
     "start": "node bin/bake-component",
