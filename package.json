@@ -4,7 +4,8 @@
   "description": "bake-component CLI",
   "private": true,
   "bin": {
-    "bake-component": "bin/bake-component"
+    "bake-component": "bin/bake-component",
+    "bakec": "bin/bake-component
   },
   "scripts": {
     "start": "node bin/bake-component",
